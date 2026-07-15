@@ -1,8 +1,8 @@
 # Transmitter-Receiver-for-Drone
 A DIY project using arduino nano to build a transmitter and receiver to control drones, rc planes etc. 
-# 🚁 DIY 5-Channel Arduino RC Transmitter & Receiver
+# 🚁 DIY 6-Channel Arduino RC Transmitter & Receiver
 
-A fully functional **5-channel wireless RC transmitter and receiver** built using **Arduino Nano** and **NRF24L01** modules. This project was designed as a low-cost alternative to commercial RC systems such as the FlySky FS-i6S and is capable of controlling a flight controller through standard PWM outputs.
+A fully functional **6-channel wireless RC transmitter and receiver** built using **Arduino Nano** and **NRF24L01** modules. This project was designed as a low-cost alternative to commercial RC systems such as the FlySky FS-i6S and is capable of controlling a flight controller through standard PWM outputs.
 
 ---
 
